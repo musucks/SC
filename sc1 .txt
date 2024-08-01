@@ -1,4 +1,4 @@
-sc1 
+sc1 Gates
 
 #For AND Gate
 from tabulate import tabulate
